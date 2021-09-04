@@ -1,0 +1,5 @@
+[
+('CMA-ES__2019-gecco-surr.tgz', '9d81df9596e0972c2d155fdf94b05ddda18eec29bb1e7c1e1b2b53a787f60dba', 19408), 
+('SLSQP+CMA_2019-gecco-surr.tgz', '058415f692960ec8b1d7aebf21b2d276e4708e90019a6dcf2887f92bb3f0d461', 13130), 
+('SLSQP-11_2019-gecco-surr.tgz', '564af6fe7b2717a54c0aa87a568a48ed8342d02dc044015db6bfa5e6977b0260', 10559), 
+('lq-CMA-ES_2019-gecco-surr.tgz', '8d789400cbb205835b3a1cb7c3ad4c8157f31d59b1fe0403bac5236442cc6728', 16570)]
